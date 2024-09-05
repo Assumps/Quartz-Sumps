@@ -1,6 +1,6 @@
 ---
-title: '"introdução"'
+title: introdução
 draft: false
-tags: []
+tags:
 ---
  introducao vem aqui
