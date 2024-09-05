@@ -5,7 +5,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - introdução
+    - Quem Sou
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
