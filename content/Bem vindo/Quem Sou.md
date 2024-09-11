@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 
-###### Me chamo João Vitor, tenho 24 anos e moro em Araras/SP. Nasci em Campinas, mas me mudei para cá há 2 anos. Sou Engenheiro de Software com foco em .Net e formado em Ciência da Computação pela UNIP. Acredito que este blog será uma ótima oportunidade para compartilhar conhecimento e, quem sabe, ajudar outros desenvolvedores em suas jornadas.
+Me chamo João Vitor, tenho 24 anos e moro em Araras/SP. Nasci em Campinas, mas me mudei para cá há 2 anos. Sou Engenheiro de Software com foco em .Net e formado em Ciência da Computação pela UNIP. Acredito que este blog será uma ótima oportunidade para compartilhar conhecimento e, quem sabe, ajudar outros desenvolvedores em suas jornadas.
 
 ###### Os conteúdos serão voltados para .Net e todo o ecossistema da Engenharia de Software, abordando temas como:
 
