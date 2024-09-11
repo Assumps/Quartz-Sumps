@@ -17,9 +17,9 @@ Me chamo João Vitor, tenho 24 anos e moro em Araras/SP. Nasci em Campinas, mas 
 #### Onde me encontrar
 <a href="https://www.linkedin.com/in/joao-assumps/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Assumps" height="20" width="20" /></a> <a href="https://www.instagram.com/joao_assumps/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Assumps" height="20" width="20" /></a> <a href="mailto:assumps13@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Assumps" height="20" width="20" /></a>
 
-#### Bora aprender juntos!!! 
+Bora aprender juntos!!! 
 
-#### E muito obrigado por ter lido até aqui.
+E muito obrigado por ter lido até aqui.
 
 
 
