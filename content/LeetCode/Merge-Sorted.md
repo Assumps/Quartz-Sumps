@@ -1,5 +1,5 @@
 ---
-title: LeetCode: Merge Sort Array
+title: LeetCode Merge Sort Array
 draft: false
 tags:
 ---
