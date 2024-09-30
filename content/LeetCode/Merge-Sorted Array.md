@@ -1,9 +1,8 @@
 ---
-title: LeetCode Merge Sort Array
+title: "Merge-Sorted Array"
 draft: false
 tags:
 ---
-
 # English
 # Intuition
 
